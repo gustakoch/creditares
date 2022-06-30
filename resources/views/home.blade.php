@@ -3,7 +3,7 @@
 
 @section('content')
 
-<h2>Culturas encontradas</h2>
+<h2>Culturas</h2>
 
 <div class="d-flex">
     <div class="list-group w-50">
